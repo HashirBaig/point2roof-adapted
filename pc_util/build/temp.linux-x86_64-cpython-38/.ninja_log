@@ -1,0 +1,12 @@
+# ninja log v5
+7	16004	1771378044116854970	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/sampling.o	cc6d455e3769ba3d
+5	16574	1771378044652856436	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/group_points.o	b82e95306b796be6
+6	17207	1771378045304858220	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/interpolate.o	9683e3a0f5329031
+2	17530	1771378045652859172	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/ball_query.o	2971a04c448e2c8b
+4	17687	1771378045808859599	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/cluster.o	7bfe3a6616ad4f66
+2	37671	1771378065836914235	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/ball_query_gpu.o	473c173a8be2d00
+5	37745	1771378065908914430	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/group_points_gpu.o	fcd6c13d15336b9a
+4	37804	1771378065980914626	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/cluster_gpu.o	aeff6324534565a
+7	38651	1771378066812916889	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/interpolate_gpu.o	f8ba904cd055d422
+8	38811	1771378066964917302	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/sampling_gpu.o	5c463fcf1c39f345
+3	41401	1771378069452924065	/data/private/research/Point2Roof/pc_util/build/temp.linux-x86_64-cpython-38/src/pointnet2_api.o	96c9de5b2f494dd0
