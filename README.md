@@ -130,16 +130,16 @@ Performance is reported with vector- and boundary-centric metrics rather than ra
 
 Headline results on the held-out test set (1,029 components):
 
-| Metric                             | Value                                         |
-| ---------------------------------- | --------------------------------------------- |
-| Precision / Recall / F1            | 0.901 / 0.884 / 0.888                         |
-| IoU                                | 0.862                                         |
-| C-IoU / Boundary IoU               | 0.784 / 0.783                                 |
-| Mean PoLiS / Chamfer / Hausdorff   | 0.180 / 0.177 / 0.561                         |
-| Mean N-ratio / vertex-count recall | 0.835 / 0.804                                 |
-| Exact corner-count match           | 35.7%                                         |
-| Self-intersecting predictions      | 0 / 1008 (closure guaranteed by construction) |
-| Prediction failure rate            | 21 / 1029 (2.0%)                              |
+| Metric                             | Value                                          |
+| ---------------------------------- | ---------------------------------------------- |
+| Precision / Recall / F1            | 0.901 / 0.884 / 0.888                          |
+| IoU                                | 0.862                                          |
+| C-IoU / Boundary IoU               | 0.784 / 0.783                                  |
+| Mean PoLiS / Chamfer / Hausdorff   | 0.180 / 0.177 / 0.561                          |
+| Mean N-ratio / vertex-count recall | 0.835 / 0.804                                  |
+| Exact corner-count match           | 35.7%                                          |
+| Self-intersecting predictions      | 21 / 1008 (closure guaranteed by construction) |
+| Prediction failure rate            | 21 / 1029 (2.0%)                               |
 
 ## Citation
 
