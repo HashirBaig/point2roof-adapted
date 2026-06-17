@@ -2,6 +2,9 @@
 /occlusion_trees
 /train_data
 /test_data
-/base_data
+/base_train_data
 /output
 /export
+
+#files
+Point2Roof_adapted_data.rar
